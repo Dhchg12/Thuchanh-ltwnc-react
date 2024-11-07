@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const CarComponent = () => {
   const [car, setCar] = useState({
     brand: "Ford",
-    model: "Mustang",
+    model: "Mustang123",
     year: "1964",
     color: "Đỏ"
   });

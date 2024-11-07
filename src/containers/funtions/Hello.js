@@ -1,6 +1,6 @@
 const Hello = () => {
     const hiAll = () => {
-        alert("Chào mấy ní");
+        alert("Chào mấy ní!!");
     };
     const hiYou = (name) => {
         alert("Dạo này ổn không " + name);
